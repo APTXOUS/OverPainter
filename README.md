@@ -1,6 +1,6 @@
 # OverPainter
-This is a improved version of Deepcolor
-![pic_failed](https://github.com/APTXOUS/OverPainter/tree/master/MD/demo.png)
+This is a improved version of Deepcolor   
+![pic_failed](https://github.com/APTXOUS/OverPainter/raw/master/MD/demo.png)
 # Environment
     tensorflow 1.13
     CUDA Version 10.1
